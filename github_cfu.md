@@ -4,3 +4,8 @@
 - to check status = git status
 - to check difference in edits - git diff
 - to see history git log git log --online
+
+### Git workflow
+- to add to staging area - git add <filename>
+- to commit with message - git commit -m "Message"
+
